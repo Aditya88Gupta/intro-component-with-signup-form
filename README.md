@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://aditya88gupta.github.io/intro-component-with-signup-form/
-- Live Site URL: https://www.frontendmentor.io/solutions/html-bootstrap-css-javascript-desktopfirst-workflow-9jbnqbZuQ
+- Live Site URL: https://aditya88gupta.github.io/intro-component-with-signup-form/
+- Solution URL: https://www.frontendmentor.io/solutions/html-bootstrap-css-javascript-desktopfirst-workflow-9jbnqbZuQ
 
 
 ### Built with
